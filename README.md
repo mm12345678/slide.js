@@ -1,7 +1,7 @@
 # slide.js
 一款基于jQuery库的，可设置多参数的轮播图插件
 ## 参数
-$('.banner).slideImg({  
+$('.banner').slideImg({  
 
      btn:false;     //是否添加左右箭头，默认没有  
      autoPlay:false;   //是否自动播放，默认不自动播放  
